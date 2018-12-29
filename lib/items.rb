@@ -1,5 +1,5 @@
 class Items
-  DIR_PATH = __dir__ + '/data/'
+  DIR_PATH =  __dir__ + '/../data/'
   attr_accessor :item_name, :item_type, :temp_max, :temp_min
 
   def show_all_items

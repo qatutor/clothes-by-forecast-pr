@@ -1,0 +1,1 @@
+{:item_name=>"Рубашка", :item_type=>"Одежда", :temp_max=>16, :temp_min=>8}
