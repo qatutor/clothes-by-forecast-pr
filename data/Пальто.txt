@@ -1,0 +1,1 @@
+{:item_name=>"Пальто", :item_type=>"Верхняя одежда", :temp_max=>10, :temp_min=>-5}
